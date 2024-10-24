@@ -23,6 +23,7 @@ MonoBehaviour:
   csharpAssembly: {fileID: 5897886265953266890, guid: ca983e1747e2842e5a8b007c1c5b3f97,
     type: 3}
   embeddedPackageAssets: []
+  networkPrefabs: []
   settings:
     serverInstancingEnabled: 1
     serverCapacitySetting: 1
