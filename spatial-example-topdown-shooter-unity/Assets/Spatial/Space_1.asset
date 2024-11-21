@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: Space_1
   m_EditorClassIdentifier: 
   version: 1
-  sku: 
+  sku: 673e8f0781b6dc800313da6d
   packageName: TopdownShooter
-  thumbnail: {fileID: 0}
+  thumbnail: {fileID: 2800000, guid: 2c1b47112cb204d9ebe8bc2668081857, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
-  worldID: 
+  worldID: xsn7nkvtv0tqt01vnpq75
   scene: {fileID: 102900000, guid: 3c8a9f2939f12421a9737a547c16619d, type: 3}
   csharpAssembly: {fileID: 5897886265953266890, guid: ca983e1747e2842e5a8b007c1c5b3f97,
     type: 3}
