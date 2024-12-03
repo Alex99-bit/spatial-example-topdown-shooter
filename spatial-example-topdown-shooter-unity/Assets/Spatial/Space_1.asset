@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 1
   sku: 673e8f0781b6dc800313da6d
-  packageName: TopdownShooter
-  thumbnail: {fileID: 2800000, guid: 2c1b47112cb204d9ebe8bc2668081857, type: 3}
+  packageName: Exterminator
+  thumbnail: {fileID: 2800000, guid: 131d12f6a9300674a8a2da36a8ca6ac9, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
   worldID: xsn7nkvtv0tqt01vnpq75
